@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * swap_int Swaps value of two int
+ * swap_int = Swaps value of two int
  * @a: First int
  * @b: Second int
  * Return: nothing
